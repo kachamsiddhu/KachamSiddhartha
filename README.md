@@ -65,8 +65,8 @@ Fine-tuned transformer model for distinguishing human-written and AI-generated c
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kachamsiddhu&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kachamsiddhu&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -75,9 +75,9 @@ Fine-tuned transformer model for distinguishing human-written and AI-generated c
 
 Portfolio: https://kachamsiddhartha.netlify.app
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/kacham-siddhartha-81ab09232/
 
-Email: YOUR_EMAIL
+Email: kachamsiddhartha@gmail.com
 
 ---
 
